@@ -16,4 +16,3 @@ A Unity C# script that smoothly scales a GameObject up and down continuously.
 - Modify `scaleFactor` for speed.
 - Change `duration` for timing.
 
-🚀 Happy coding!
